@@ -1,4 +1,5 @@
-# Lineare Algebra | FFHS
+# Lineare Algebra
+> FFHS, LinAlg, Semesterarbeit
 ## Project Jupyter
 For more information https://jupyter.org/install
 ### Setup
